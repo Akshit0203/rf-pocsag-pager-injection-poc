@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "POCSAG RF Message Injection — Proof of Concept"
+message: "If you reference this educational research, please cite it as below."
+type: software
+authors:
+  - given-names: "Akshit"
+    alias: "Akshit0203"
+abstract: >-
+  A controlled, educational reconstruction of the unauthenticated,
+  unencrypted message-injection weakness in the legacy POCSAG paging
+  protocol, demonstrated with commodity SDR hardware (HackRF One +
+  PortaPack H2+ running Mayhem, and Flipper Zero running RogueMaster).
+  Published to inform defenders and regulators about the risk of
+  trusting broadcast paging for safety-critical communications.
+keywords:
+  - POCSAG
+  - SDR
+  - RF security
+  - SIGINT
+  - wireless protocol analysis
+  - critical infrastructure
+  - HackRF
+  - Flipper Zero
+license: MIT
+date-released: 2025-05-13
