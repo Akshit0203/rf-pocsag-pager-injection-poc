@@ -50,6 +50,14 @@ In September 2024, thousands of pagers across Lebanon and Syria were weaponised 
 
 This project reconstructs — in a controlled bench environment — the *communications* half of that question: the fact that **POCSAG paging messages are transmitted in plaintext with no authentication, integrity, or encryption.** Using an SDR transmitter and a separate SDR receiver, the research demonstrates that a crafted pager message can be injected and received as if it were legitimate.
 
+---
+
+## Project Demo
+<video src="https://github.com/user-attachments/assets/eeeb9da7-3b4b-4b8d-9bd9-bf23067b68c7" width="100%" controls></video>
+<br>
+
+---
+
 | | |
 |---|---|
 | **Target protocol** | POCSAG (Post Office Code Standardisation Advisory Group) |
